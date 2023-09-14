@@ -1,0 +1,25 @@
+.tabella{ width: 800px;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left:auto;
+
+    
+}
+
+H1{
+    text-align:center;
+    margin-top: 70px;
+}
+.button_div{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+button{
+    background-color: white;
+}
+.cell{ display: inline-block;
+    margin-right: 16px;
+     font-size: xx-large;
+     width: 55px;
+}
